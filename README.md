@@ -1,5 +1,5 @@
 # Operating System Assignments
- Assignments in CSE-231 course at IIITD.
+ Assignments done in CSE-231 course at IIITD.
 
 CR0.asm -> Implementation of a bootloader in assembly language to switch to protected mode (32 bits) and print the contents of CR0 register.
 
